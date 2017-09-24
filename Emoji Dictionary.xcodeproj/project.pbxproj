@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E49F8831F78144500754982 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E49F8821F78144500754982 /* DefinitionViewController.swift */; };
 		7EDFE8341F780247001A2805 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EDFE8331F780247001A2805 /* AppDelegate.swift */; };
 		7EDFE8361F780247001A2805 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EDFE8351F780247001A2805 /* ViewController.swift */; };
 		7EDFE8391F780247001A2805 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EDFE8371F780247001A2805 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E49F8821F78144500754982 /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 		7EDFE8301F780247001A2805 /* Emoji Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EDFE8331F780247001A2805 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EDFE8351F780247001A2805 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				7EDFE8331F780247001A2805 /* AppDelegate.swift */,
 				7EDFE8351F780247001A2805 /* ViewController.swift */,
+				7E49F8821F78144500754982 /* DefinitionViewController.swift */,
 				7EDFE8371F780247001A2805 /* Main.storyboard */,
 				7EDFE83A1F780247001A2805 /* Assets.xcassets */,
 				7EDFE83C1F780247001A2805 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EDFE8361F780247001A2805 /* ViewController.swift in Sources */,
+				7E49F8831F78144500754982 /* DefinitionViewController.swift in Sources */,
 				7EDFE8341F780247001A2805 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				7EDFE8441F780247001A2805 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
